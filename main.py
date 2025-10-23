@@ -15,10 +15,10 @@ CORS(app)  # Enable CORS for all routes
 
 # MySQL Database Configuration
 DB_CONFIG = {
-    'host': 'sql5.freesqldatabase.com',
-    'database': 'sql5804209',
-    'user': 'sql5804209',
-    'password': 'VjasnxFHf9'
+    'host': 'auth-db1829.hstgr.io',
+    'database': 'u288092420_nexus',
+    'user': 'u288092420_arshad',
+    'password': '@Four,ra.2'
 }
 
 def get_db_connection():
